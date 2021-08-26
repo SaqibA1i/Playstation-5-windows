@@ -1,0 +1,21 @@
+{
+  "name": "skin.playstation5",
+  "version": "1.0.0",
+  "description": "A skin inspired by the Playstation 5 but on pc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaqibA1i/PlayStation-5-Kodi-Skin.git"
+  },
+  "author": "Saqib Ali",
+  "bugs": {
+    "url": "https://github.com/SaqibA1i/PlayStation-5-Kodi-Skin/issues"
+  },
+  "homepage": "https://github.com/SaqibA1i/PlayStation-5-Kodi-Skin#readme",
+  "dependencies": {
+    "release": "^6.3.0"
+  }
+}

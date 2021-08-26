@@ -1,0 +1,21 @@
+<addon id="skin.playstation5" name="PlayStation 5" provider-name="Saqib Ali" version="1.0.0">
+	<requires>
+		<import addon="xbmc.gui" version="5.15.0" />
+	</requires>
+	<extension debugging="false" effectslowdown="0.80" point="xbmc.gui.skin">
+		<res aspect="16:9" default="true" folder="1080i" height="1080" width="1920" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_US">Playstation 5</summary>
+		<description lang="en_US">A playstation 5 skin ported to kodi based off of Toyota1232 playstation 4 skin</description>
+		<platform>all</platform>
+		<license></license>
+		<forum></forum>
+		<email></email>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+		<news>Updated for Kodi v19 Matrix</news>
+	</extension>
+</addon>

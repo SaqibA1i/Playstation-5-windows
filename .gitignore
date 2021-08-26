@@ -1,0 +1,14 @@
+node_modules
+media/posters/launch/game/*
+media/posters/launch/othergame/*
+media/posters/launch/apps/*
+
+# Emulaters (allows to push an empty folder to git)
+Emulaters/cemu/*
+!Emulaters/cemu/.keep
+Emulaters/dolphin/*
+!Emulaters/dolphin/.keep
+Emulaters/pcsx2/*
+!Emulaters/pcsx2/.keep
+Emulaters/rcps3/*
+!Emulaters/rcps3/.keep
