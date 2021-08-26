@@ -63,3 +63,5 @@ Kodi comes with controller support.
 ##### Report on Controller Battery Health
 In order to report the battery information a third party package had to be used. 
 > HUGE PROBLEM: Kodi does not allow the support of third party python packages! Therefore I had to manually seperate the useful pieces of code within the [Xinput-Python](https://github.com/Zuzu-Typ/XInput-Python) package and was sucessfully able to report controller battery.
+
+NOTE: THIS SKIN IS ONLY FOR PERSONAL USE
